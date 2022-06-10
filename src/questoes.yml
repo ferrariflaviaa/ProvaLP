@@ -1,0 +1,7 @@
+4)Utilizamos token para autenticar o acesso a um usuário na sua conta, verificamos ser 
+é ele mesmos, esse token fica no cookies do navegador dando assim acesso ao usuário vê.
+A autorização verificamos o que usuario terá acesso para alterar determindos arquivos.
+Sendo assim o autentucação e autorização andam juntas, pelo fato de temos as verificação de usuário e as autorizações de alterações aos arquivos.
+
+
+5)Usamos Global quando queremos que todos nossos componentes tem acesso ou alguma alteções iguais, ja o Context podemos dizer que ele é global porém manipulavel, so irá aparace onde chamamos ele.
